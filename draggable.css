@@ -19,7 +19,7 @@
 }
 
 .chat_btn_div{
-    position: absolute;
-    right: 5%;
-    bottom: 10%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
 }
